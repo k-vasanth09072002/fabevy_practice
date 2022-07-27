@@ -1,0 +1,8 @@
+Hi this is my first c programm so i would glad thanks to god
+
+#include (stdio.h)
+
+int main () { 
+ int mynum;
+ char  character ;
+ 
