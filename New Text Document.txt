@@ -5,4 +5,4 @@ Hi this is my first c programm so i would glad thanks to god
 int main () { 
  int mynum;
  char  character ;
- 
+ the editor is vasath
